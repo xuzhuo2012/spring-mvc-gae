@@ -41,9 +41,10 @@
 		<!-- end of sidebar -->
 
 		<div id="templatemo_main">
-			<ul id="social_box">
+			<h1>Android Apps</h1>
+			<ul id="social_box" style="overflow:auto">
 				<li>
-					<a href="#">
+					<a href="downloadApp?appName=facebook" target="_blank">
 						<img src="resources/images/facebook.png" alt="facebook" />
 					</a>
 				</li>
