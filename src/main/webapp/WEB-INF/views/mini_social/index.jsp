@@ -291,7 +291,7 @@
 
 			<div id="templatemo_footer">
 
-				Copyright Â© 2013 <a href="#">公司名陈</a> | <a href="#" target="_parent">Designed</a> by <a href="#" target="_parent"> Xu Zhuo</a>
+				Copyright Â© 2013 <a href="#">XXZZSoftware</a> | <a href="#" target="_parent">Designed</a> by <a href="#" target="_parent"> Xu Zhuo</a>
 
 			</div>
 			<!-- end of templatemo_footer -->
