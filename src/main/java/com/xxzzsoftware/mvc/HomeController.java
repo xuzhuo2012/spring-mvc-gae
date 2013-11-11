@@ -4,6 +4,8 @@ import java.text.DateFormat;
 import java.util.Date;
 import java.util.Locale;
 
+import javax.servlet.http.HttpServletRequest;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Controller;
@@ -36,6 +38,21 @@ public class HomeController {
 		model.addAttribute("serverTime", formattedDate );
 		
 		return "mini_social/index";
+	}
+	
+	@RequestMapping(value = "/contactus", method = RequestMethod.POST)
+	public String contactus(HttpServletRequest request, Model model){
+		
+		String author = request.getParameter("author");
+		String email = request.getParameter("email");
+		String text = request.getParameter("text");
+		
+		logger.info("author == "+author);
+		logger.info("email == "+email);
+		logger.info("text == "+text);
+		
+		//重定向
+		return "redirect:/";
 	}
 
 }

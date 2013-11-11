@@ -1,12 +1,11 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Home</title>
-<meta name="keywords"
-	content="mini social, free download, website templates, CSS, HTML" />
-<meta name="description"
-	content="Mini Social is a free website template from templatemo.com" />
+<meta name="keywords" content="software, java, web devepoler" />
+<meta name="description" content="Mini Social is a free website template from templatemo.com" />
 
 <link href="resources/css/templatemo_style.css" rel="stylesheet" type="text/css" />
 <link href="resources/css/coda-slider.css" rel="stylesheet"  type="text/css" media="screen" charset="utf-8" />
@@ -26,17 +25,17 @@
 		<div id="templatemo_sidebar">
 			<div id="templatemo_header">
 				<a href=# target="_parent">
-					<img src="resources/images/templatemo_logo.png" alt="徐卓的主页" />
+					<img src="resources/images/templatemo_logo.png" alt="xxzzsoftware" />
 				</a>
 			</div>
 			<!-- end of header -->
 
 			<ul class="navigation">
-				<li><a href="#home">Home<span class="ui_icon home"></span></a></li>
-				<li><a href="#aboutus">About Us<span class="ui_icon aboutus"></span></a></li>
-				<li><a href="#services">Services<span class="ui_icon services"></span></a></li>
-				<li><a href="#gallery">Gallery<span class="ui_icon gallery"></span></a></li>
-				<li><a href="#contactus">Contact Us<span class="ui_icon contactus"></span></a></li>
+				<li><a href="#home">我的主页<span class="ui_icon home"></span></a></li>
+				<li><a href="#aboutus">关于我们<span class="ui_icon aboutus"></span></a></li>
+				<li><a href="#services">提供服务<span class="ui_icon services"></span></a></li>
+				<li><a href="#gallery">成功案例<span class="ui_icon gallery"></span></a></li>
+				<li><a href="#contactus">联系我们<span class="ui_icon contactus"></span></a></li>
 			</ul>
 		</div>
 		<!-- end of sidebar -->
@@ -79,34 +78,28 @@
 					<div class="scrollContainer">
 
 						<div class="panel" id="home">
-							<h1>Introducing Mini Social website</h1>
+							<h1>我的介绍</h1>
 							<div class="image_wrapper image_fl">
 								<img src="resources/images/templatemo_image_01.jpg" alt="image" />
 							</div>
 							<p>
 								<em>Nullam at erat ipsum, quis tincidunt mauris. Nunc sit
-									amet sapien eget eros iaculis hendrerit quis a enim. Validate <a
-									href="#" rel="nofollow">XHTML</a>
-									&amp; <a
-									href="#"
-									rel="nofollow">CSS</a>.
+									amet sapien eget eros iaculis hendrerit quis a enim. Validate 
+									<a href="#" rel="nofollow">XHTML</a> &amp; <a href="#" rel="nofollow">CSS</a>.
 								</em>
 							</p>
 							<p>
-								Mini Social is a <a href="#"
-									target="_parent">Free CSS Template</a> is provided by <a
-									href="#" target="_parent">templatemo.com</a>.
-								You may use this template in your websites. Credits go to <a
-									href="#" target="_blank">PhotoVaco</a>
-								for photos, <a
-									href="#"
-									target="_blank">Social.me</a> and <a
-									href="#" target="_blank">WeFunction</a>
+								Mini Social is a <a href="#" target="_parent">Free CSS Template</a> 
+								is provided by <a href="#" target="_parent">templatemo.com</a>.
+								You may use this template in your websites. Credits go to 
+								<a href="#" target="_blank">PhotoVaco</a> for photos, 
+								<a href="#" target="_blank">Social.me</a> and 
+								<a href="#" target="_blank">WeFunction</a>
 								for icons used in this template.
 							</p>
 							<div class="cleaner_h40"></div>
 
-							<h2>Our Background</h2>
+							<h2>我的背景</h2>
 							<p>
 								<em>Donec ac eros ac nunc blandit hendrerit. Vestibulum
 									tincidunt, odio at ultricies sollicitudin, ante felis luctus
@@ -124,7 +117,7 @@
 						<!-- end of home -->
 
 						<div class="panel" id="aboutus">
-							<h1>About Us</h1>
+							<h1>关于我们</h1>
 							<div class="image_wrapper image_fl">
 								<img src="resources/images/templatemo_image_02.jpg" alt="image" />
 							</div>
@@ -136,8 +129,8 @@
 							<p>
 								Vestibulum vitae lectus a leo commodo egestas. Sed et ligula
 								mauris. Donec interdum iaculis eros, sed porttitor justo ornare
-								ac. Suspendisse ultrices arcu auctor sapien malesuada dictum. <a
-									href="#">Vivamus non</a> ante sit amet ligula dignissim blandit
+								ac. Suspendisse ultrices arcu auctor sapien malesuada dictum. 
+								<a 	href="#">Vivamus non</a> ante sit amet ligula dignissim blandit
 								ut sit amet purus. Sed tristique euismod lectus sed scelerisque.
 								Curabitur convallis fringilla ante, eget eleifend magna iaculis
 								eget. Praesent at nunc tellus. Sed sed auctor odio. Maecenas ut
@@ -153,7 +146,7 @@
 						</div>
 
 						<div class="panel" id="services">
-							<h1>Our Services</h1>
+							<h1>我的服务</h1>
 							<p>
 								Vivamus laoreet pharetra eros. In quam nibh, placerat ac, porta
 								ac, molestie non, purus. Curabitur sem ante, condimentum non,
@@ -165,27 +158,21 @@
 							</p>
 
 							<ul class="service_list">
-								<li><a href="#" class="service_one">
-								Free
-										XML Flash Templates</a></li>
-								<li><a href="#"
-									class="service_two">Flash Image Sliders</a></li>
-								<li><a href="#" class="service_three">Curabitur
-										ullamcorper nibh</a></li>
-								<li><a href="#" class="service_four">Pellentesque
-										adipiscing</a></li>
-								<li><a href="#" class="service_five">Vestibulum urna
-										purus</a></li>
+								<li><a href="#" class="service_one">Android应用以及游戏</a></li>
+								<li><a href="#" class="service_two">网站后台开发</a></li>
+								<li><a href="#" class="service_three">门户网站开发</a></li>
+								<li><a href="#" class="service_four">公司内部管理系统</a></li>
+								<li><a href="#" class="service_five">提供Web Service接口</a></li>
 							</ul>
 						</div>
 
 						<div class="panel" id="gallery">
-							<h1>Our Gallery</h1>
+							<h1>我的项目</h1>
 
 							<div id="gallery_container">
 								<div class="gallery_box">
 									<img src="resources/images/gallery/image_01.jpg" alt="01" />
-									<h4>Project One</h4>
+									<h4>Google Glass</h4>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 										Aenean nec ligula vitae ipsum blandit condimentum. Nam
 										fringilla luctus mauris, non ornare turpis lobortin.</p>
@@ -196,7 +183,7 @@
 								</div>
 								<div class="gallery_box">
 									<img src="resources/images/gallery/image_02.jpg" alt="02" />
-									<h4>Project No. 2</h4>
+									<h4>Android</h4>
 									<p>Donec ac eros ac nunc blandit hendrerit. Vestibulum
 										tincidunt, odio at ultricies sollicitudin, ante felis luctus
 										justo, non venenatis quam mauris non tortor.</p>
@@ -207,7 +194,7 @@
 								</div>
 								<div class="gallery_box">
 									<img src="resources/images/gallery/image_03.jpg" alt="03" />
-									<h4>Project Three</h4>
+									<h4>卡牌游戏</h4>
 									<p>Mauris ligula tortor, congue laoreet rutrum eget,
 										suscipit nec augue. In congue consectetur est, sit amet
 										hendrerit velit adipiscing eget.</p>
@@ -218,7 +205,7 @@
 								</div>
 								<div class="gallery_box">
 									<img src="resources/images/gallery/image_04.jpg" alt="04" />
-									<h4>Project No. 4</h4>
+									<h4>MIP System</h4>
 									<p>Curabitur iaculis, erat pharetra porttitor sollicitudin,
 										turpis lectus placerat arcu, ac mattis eros sem ut metus. Nunc
 										congue iaculis lectus in interdum.</p>
@@ -229,7 +216,7 @@
 								</div>
 								<div class="gallery_box">
 									<img src="resources/images/gallery/image_05.jpg" alt="05" />
-									<h4>Project Five</h4>
+									<h4>MIP system For China</h4>
 									<p>Curabitur iaculis enim dolor. Sed quis augue ligula.
 										Quisque aliquet egestas felis, in egestas turpis sodales et.
 										In ac diam ut orci viverra bibendum.</p>
@@ -240,7 +227,7 @@
 								</div>
 								<div class="gallery_box">
 									<img src="resources/images/gallery/image_06.jpg" alt="06" />
-									<h4>Project No. 6</h4>
+									<h4>Notes</h4>
 									<p>Sed in viverra nulla. Duis rutrum vehicula ligula, non
 										tempor nunc congue et. Nunc sit amet tortor nulla, ut eleifend
 										enim sed condimentum tellus vestibulum in.</p>
@@ -255,27 +242,24 @@
 						</div>
 
 						<div class="panel" id="contactus">
-							<h1>Feel free to send us a message</h1>
+							<h1>给我留言</h1>
 							<div id="contact_form">
-								<form method="post" name="contact" action="#contactus">
+								<form method="post" name="contact" action="contactus">
 
-									<label for="author">Your Name:</label> <input type="text"
-										id="author" name="author" class="required input_field" />
+									<label for="author">Your Name:</label> 
+									<input type="text" id="author" name="author" class="required input_field" />
 									<div class="cleaner_h10"></div>
 
-									<label for="email">Your Email:</label> <input type="text"
-										id="email" name="email"
-										class="validate-email required input_field" />
+									<label for="email">Your Email:</label> 
+									<input type="text" id="email" name="email" class="validate-email required input_field" />
 									<div class="cleaner_h10"></div>
 
 									<label for="text">Message:</label>
-									<textarea id="text" name="text" rows="0" cols="0"
-										class="required"></textarea>
+									<textarea id="text" name="text" rows="0" cols="0" class="required"></textarea>
 									<div class="cleaner_h10"></div>
 
-									<input type="submit" class="submit_btn" name="submit"
-										id="submit" value="Send" /> <input type="reset"
-										class="submit_btn" name="reset" id="reset" value="Reset" />
+									<input type="submit" class="submit_btn" name="submit" id="submit" value="Send" /> 
+									<input type="reset" class="submit_btn" name="reset" id="reset" value="Reset" />
 
 								</form>
 							</div>
@@ -291,7 +275,7 @@
 
 			<div id="templatemo_footer">
 
-				Copyright Â© 2013 <a href="#">XXZZSoftware</a> | <a href="#" target="_parent">Designed</a> by <a href="#" target="_parent"> Xu Zhuo</a>
+				Copyright © 2013 <a href="#">XXZZSoftware</a> | <a href="#" target="_parent">Designed</a> by <a href="#" target="_parent"> Xu Zhuo</a>
 
 			</div>
 			<!-- end of templatemo_footer -->
