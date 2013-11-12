@@ -19,7 +19,7 @@
 	<div id="templatemo_header_panel">
 		<div id="templatemo_title_section">
 			<h1>Xu Zhuo's Blog</h1>
-			徐卓的blog空间
+			    天天有更新
 		</div>
 	</div>
 	
@@ -29,12 +29,14 @@
 	<div id="templatemo_menu_panel">
 		<div id="templatemo_menu_section">
 			<ul>
-				<!-- <li><a href="#" class="current">Home</a></li>
+				<!-- 
+				<li><a href="#" class="current">Home</a></li>
 				<li><a href="#">Gallery</a></li>
 				<li><a href="#">Categories</a></li>
 				<li><a href="#">Archives</a></li>
 				<li><a href="#">About</a></li>
-				<li><a href="#">Contact</a></li> -->
+				<li><a href="#">Contact</a></li>
+			    -->
 			</ul>
 		</div>
 	</div>
@@ -180,8 +182,7 @@
 	
 	<div id="templatemo_footer_panel">
     	<div id="templatemo_footer_section">
-			Copyright © 2048 <a href="#">Your Company Name</a> | 
-            <a href="http://www.iwebsitetemplate.com" target="_parent">Website Templates</a> by <a href="http://www.templatemo.com" target="_parent">Free CSS Templates</a>
+			Copyright © 2048 <a href="#">Your Company Name</a> |  <a href="#" target="_parent">Website Templates</a> by <a href="#" target="_parent">Free CSS Templates</a>
         </div>
     </div>
 
