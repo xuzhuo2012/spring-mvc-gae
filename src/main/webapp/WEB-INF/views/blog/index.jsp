@@ -11,9 +11,6 @@
 
 <link   rel="stylesheet" type="text/css" href="resources/blog/templatemo_style.css"  />
 <link   rel="stylesheet" type="text/css" href="resources/blog/tabcontent.css" />
-<!-- 
-<script type="text/javascript" src="resources/blog/tabcontent.js"/>
- -->
 
 </head>
 
@@ -25,17 +22,19 @@
 			徐卓的blog空间
 		</div>
 	</div>
+	
+	
 	<!-- end of templatemo header panel -->
 
 	<div id="templatemo_menu_panel">
 		<div id="templatemo_menu_section">
 			<ul>
-				<li><a href="index.html" class="current">Home</a></li>
+				<!-- <li><a href="#" class="current">Home</a></li>
 				<li><a href="#">Gallery</a></li>
 				<li><a href="#">Categories</a></li>
 				<li><a href="#">Archives</a></li>
 				<li><a href="#">About</a></li>
-				<li><a href="#">Contact</a></li>
+				<li><a href="#">Contact</a></li> -->
 			</ul>
 		</div>
 	</div>
@@ -50,28 +49,17 @@
 
 				<div class="templatemo_post_wrapper">
 					<div class="templatemo_post">
-						<div class="post_title">Free CSS Template</div>
+						<div class="post_title">Title</div>
 						<div class="post_info">
-							Posted by <a href="http://www.templatemo.com" target="_blank">templatemo.com</a>,
-							December 7, 2048 at 10:12 am, in <a href="#">Player.</a>
+							Posted by <a href="#" target="_blank">xu zhuo</a>, December 7, 2048 at 10:12 am, in <a href="#">Player.</a>
 						</div>
 						<div class="post_body">
-							<img src="resources/blog/images/templatemo_image_02.jpg" alt="free css template"
-								border="1" />
+							<img src="resources/blog/images/templatemo_image_02.jpg" alt="where" border="1" />
 							<p>
-								Free CSS Template is provided by <a
-									href="http://www.templatemo.com" target="_blank">templatemo.com</a>
-								for blog websites. You may download, modify and use this website
-								layout for personal or commercial websites.
+								write something here.
 							</p>
 							<p>
-								Credits go to <a
-									href="http://www.bittbox.com/freebies/free-hi-resolution-wood-textures/"
-									target="_blank">bittbox.com</a> for wood texture, <a
-									href="http://www.brusheezy.com/brush/1108-Floral-Pack-1"
-									target="_blank">ElenaSham</a> and <a
-									href="http://www.brusheezy.com/brush/957-Enchanting-Flowers"
-									target="_blank">Coby17</a> for brushes.
+								write something here.
 							</p>
 						</div>
 						<div class="post_comment">
@@ -83,22 +71,15 @@
 
 				<div class="templatemo_post_wrapper">
 					<div class="templatemo_post">
-						<div class="post_title">Blog web template for free</div>
+						<div class="post_title">Blog Title</div>
 						<div class="post_info">
-							Posted by <a href="http://www.templatemo.com" target="_blank">TemplateMo.com</a>,
+							Posted by <a href="#" target="_blank">Xu Zhuo</a>,
 							December 6, 2048 at 11:24 am, in <a href="#">Player.</a>
 						</div>
 						<div class="post_body">
-							<img src="images/templatemo_image_01.jpg"
-								alt="free blog template" border="1" />
-							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-								Nunc quis sem nec tellus blandit tincidunt. Duis vitae velit sed
-								dui malesuada dignissim. Donec mollis aliquet ligula. Maecenas
-								adipiscing elementum ipsum. Pellentesque vitae magna.</p>
-							<p>Pellentesque dolor nulla, congue vitae, fringilla in,
-								varius a, orci. Mauris convallis. Proin vel libero id erat
-								venenatis accumsan. Nunc blandit orci sit amet risus. Donec
-								mollis aliquet ligula. Maecenas adipiscing elementum ipsum.</p>
+							<img src="resources/blog/images/templatemo_image_01.jpg" alt="where" border="1" />
+							<p>write something here</p>
+							<p>write something here</p>
 						</div>
 						<div class="post_comment">
 							<a href="#">5 comments</a>
@@ -111,57 +92,6 @@
 			<!-- end of content left -->
 
 			<div id="templatemo_content_right">
-
-				<div class="templatemo_right_section">
-					<div class="tag_section">
-						<ul id="countrytabs" class="shadetabs">
-							<li><a href="#" rel="search" class="selected">Search</a></li>
-							<li><a href="#" rel="category">Category</a></li>
-							<li><a href="#" rel="archive">Archive</a></li>
-						</ul>
-					</div>
-
-					<div class="tabcontent_section">
-						<div id="search" class="tabcontent">
-							<form method="get" action="#">
-								<input type="text"   name="searchkeyword"  class="inputfield" id="searchkeyword" /> 
-								<input type="submit" name="submit"      class="button" value="Search" />
-							</form>
-						</div>
-
-						<div id="category" class="tabcontent">
-							<ul>
-								<li><a href="#">Lorem ipsum</a></li>
-								<li><a href="#">Duis mollis</a></li>
-								<li><a href="#">Maecenas adipiscing</a></li>
-								<li><a href="#">Nunc blandit orci</a></li>
-								<li><a href="#">Cum sociis natoque</a></li>
-							</ul>
-						</div>
-
-						<div id="archive" class="tabcontent">
-							<ul>
-								<li><a href="#">January 2049</a></li>
-								<li><a href="#">December 2048</a></li>
-								<li><a href="#">November 2048</a></li>
-								<li><a href="#">October 2048</a></li>
-								<li><a href="#">September 2048</a></li>
-							</ul>
-						</div>
-					</div>
-
-					<script type="text/javascript">
-					
-						var countries = new ddtabcontent("countrytabs");
-						countries.setpersist(true);
-						//"link" or "linkparent"
-						countries.setselectedClassTarget("link"); 
-						countries.init();
-						
-					</script>
-					<!--- end of tag -->
-				</div>
-
 
 				<div class="templatemo_right_section">
 					<h2>Popular Posts</h2>
@@ -247,6 +177,13 @@
 		</div>
 	</div>
 	<!-- end of templatemo bottom panel -->
+	
+	<div id="templatemo_footer_panel">
+    	<div id="templatemo_footer_section">
+			Copyright © 2048 <a href="#">Your Company Name</a> | 
+            <a href="http://www.iwebsitetemplate.com" target="_parent">Website Templates</a> by <a href="http://www.templatemo.com" target="_parent">Free CSS Templates</a>
+        </div>
+    </div>
 
 </body>
 </html>

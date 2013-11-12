@@ -79,8 +79,8 @@
 	display: none;
 }
 
-/* @media print {
+@media print {
 	.tabcontent {
 		display: block !important;
 	}
-} */
+}
